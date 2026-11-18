@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/dhany999/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/dhany999/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-A program that writes one image summing up the world news of Tuesday 17 November 2026: six real stories — Iran drones hitting a U.S. radar base, Ukraine striking the Crimea bridge, Trump flying to Asia, EU states planning a Rwanda return hub, Japan scrambling jets, and a third U.S. carrier in the Middle East — drawn as a clean newspaper-style infographic with the date up top.
+A program that writes one image summing up the world news of Tuesday 17 November 2026: fifty real stories — from the Crimea bridge strike and the Iran drone attack on a U.S. radar base to markets, tech, sport and culture — drawn as a dense newspaper-style infographic with the date up top.
 
 ## Run it
 

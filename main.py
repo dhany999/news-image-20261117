@@ -1,4 +1,4 @@
-"""Entry program for make.fun news-image-20261117.
+"""Entry program for make.fun news-image-20261117 (v2).
 
 Copies the bundled image (entry.png, kept in this program's own
 directory) to the output directory as entry.png. The output directory
